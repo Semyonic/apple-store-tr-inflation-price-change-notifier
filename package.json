@@ -1,0 +1,20 @@
+{
+  "name": "apple-price-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "node-notifier": "^10.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
